@@ -1,4 +1,9 @@
+This project contains a Power BI financial report for FP20 Challenge 26.
+
+![Dashboard Overview](https://github.com/IsmailOtukoya/Finance-Report/blob/main/Screenshot%202025-05-21%20232310.png)
+
 # Finance-Report
+
 I analyzed the financial data of a SaaS company by comparing real transaction history with the structured budget plan for 2022–2024.
 
 📄 The report consists of 3 pages:
